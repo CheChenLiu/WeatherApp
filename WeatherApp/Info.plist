@@ -62,5 +62,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>同意分享地區以便呈現資訊</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>同意分享地區以便呈現資訊</string>
 </dict>
 </plist>
